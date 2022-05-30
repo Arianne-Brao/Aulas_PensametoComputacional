@@ -1,2 +1,2 @@
-# Aulas_PensametoConputacional
+# Aulas_PensamentoComputacional
 Aula teste GitHub
