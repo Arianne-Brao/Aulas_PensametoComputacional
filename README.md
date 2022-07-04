@@ -1,2 +1,2 @@
 
-<input type="text" name="Nome" size="40" />
+<input type="search" name="Nome" size="40" />
