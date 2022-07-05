@@ -1,3 +1,6 @@
+<h1 style="color: #4485b8;">You can edit <span style="background-color: #4485b8; color: #ffffff; padding: 0 5px;">this demo</span> text!</h1>
+
+
 <style type="text/css"></style>
 <div id="w2b-searchbox">
 <form id="w2b-searchform" action="/search" method="get">
