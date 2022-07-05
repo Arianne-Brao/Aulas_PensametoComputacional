@@ -12,16 +12,16 @@
   <img src="search3.png" id="btnBusca" alt="Buscar"/>
 </div></p>
 
-<div id="divBusca">
+<p><div id="divBusca">
   <img src="search3.png" alt="Buscar..."/>
   <input type="text" id="txtBusca" placeholder="Buscar..."/>
   <button id="btnBusca">Buscar</button>
-</div>
+</div></p>
 
-<div id="divBusca">
+<p><div id="divBusca">
   <img src="search3.png" alt=""/>
   <input type="text" id="txtBusca" placeholder="Buscar..."/>
   <img src="search4.png" alt="Buscar..." id="btnBusca"/>
-</div>
+</div></p>
 
-<input type="text" name="Nome" size="40" /> 
+<p><input type="text" name="Nome" size="40" /></p>
